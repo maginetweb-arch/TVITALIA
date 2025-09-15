@@ -237,7 +237,7 @@ https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c
 #EXTINF:-1 tvg-id="Radio Norba TV"tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/80/Radionorba_tv_logo_2021.png/330px-Radionorba_tv_logo_2021.png"tvg-chno="730"group-title="Radio":http-user-agent="",Radio Norba TV 
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="Super SIX"tvg-logo="https://www.supersixtv.net/img/loghiprinc.png"tvg-chno="801"group-title="Radio":http-user-agent="",Super SIX
+#EXTINF:-1 tvg-id="Super SIX"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/SuperSix_TV_Logo.png/250px-SuperSix_TV_Logo.png"tvg-chno="801"group-title="Radio":http-user-agent="",Super SIX
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EURO TV"tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/93/Eurotv.png"tvg-chno="802"group-title="Radio":http-user-agent="",Euro TV 
