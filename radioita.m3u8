@@ -7,7 +7,7 @@ http://icestreaming.rai.it/1.mp3
 http://icestreaming.rai.it/2.mp3
 
 #EXTINF:0, Rai Radio 3
-https://icecast.unitedradio.it/Radio105.mp3
+http://icestreaming.rai.it/3.mp3
 
 #EXTINF:0, RTL
 https://streamingv2.shoutcast.com/rtl-1025
@@ -109,4 +109,5 @@ https://ssl1.mediastreaming.it:7024/
 http://37.187.126.64:8000/skylab.mp3
 
 #EXTINF:0, Jetradio
+
 https://stream.jetradio.it/listen/jetradio/radio.mp3
