@@ -1,4 +1,8 @@
-iptvit Lista dei canali in chiaro italiani
+# IPTVIT 🇮🇹  
+[![Version](https://img.shields.io/badge/version-1.1.3-blue.svg)](https://github.com/maginetweb-arch/trwnet)  
+del 15/09/2025
+
+iptvit Lista dei canali tv in chiaro italiani
 
 IPTV-Italia
 Questa repository contiene tutti i link ai principali canali TV italiani in file m3u da aprire con un qualsiasi programma che supporti file playlist. I link sono tutti estrapolati dagli stream ufficiali, e per questo dovrebbero essere visibili legalmente soltanto all'interno dell'Italia. Intendo aggiornare i link non funzionanti o aggiungere nuovi canali se vedo commenti che lo chiedono ed è nelle mie capacità farlo legalmente.
@@ -85,3 +89,5 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/trwnet/main/iptvit.m3u
 [803] Iunior TV  
 [804] Rete Mia  
 [899] Radio TV Serie A   
+
+Oltre ai principali canali tv nazionali verranno aggiunti alcuni canali degni di nota che hanno una programmazione di interesse.
