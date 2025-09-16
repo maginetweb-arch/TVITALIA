@@ -1,0 +1,112 @@
+#EXTM3U
+
+#EXTINF:0, Rai Radio 1
+http://icestreaming.rai.it/1.mp3
+
+#EXTINF:0, Rai Radio 2
+http://icestreaming.rai.it/2.mp3
+
+#EXTINF:0, Rai Radio 3
+https://icecast.unitedradio.it/Radio105.mp3
+
+#EXTINF:0, RTL
+https://streamingv2.shoutcast.com/rtl-1025
+
+#EXTINF:0, RDS 100% Grandi Successi
+https://icstream.rds.radio/rds
+
+#EXTINF:0, Radio Deejay
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8
+
+#EXTINF:0, Radio Capital
+https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8
+
+#EXTINF:0, Radio Kiss Kiss
+https://kisskiss.fluidstream.eu/KissKiss.mp3
+
+#EXTINF:0, R101 Diretta
+http://icecast.unitedradio.it/r101
+
+#EXTINF:0, Virgin Radio
+http://icecast.unitedradio.it/Virgin.mp3
+
+#EXTINF:0, Radio 105
+http://icecast.105.net/105.mp3
+
+#EXTINF:0, RMC Radio Monte Carlo
+http://edge.radiomontecarlo.net/RMC.mp3
+
+#EXTINF:0, Radio m2o
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
+
+#EXTINF:0, Radio 24
+http://shoutcast.radio24.it:8000/listen.pls
+
+#EXTINF:0, Bella e Monella
+https://klasse1.fluidstream.eu/bella
+
+#EXTINF:0, Radio Subasio
+https://icy.unitedradio.it/Subasio.mp3
+
+#EXTINF:0, RadioNorba
+http://onair11.xdevel.com:9990/
+
+#EXTINF:0, Radionorba Music 
+https://stream6.xdevel.com/audio1s975885-1083/stream/icecast.audio
+
+#EXTINF:0, Love FM
+https://ice07.fluidstream.net/lovefm.mp3
+
+#EXTINF:0, Classic Hits
+https://classichitsradio.streamingmedia.it/play
+
+#EXTINF:0, Radio Reporter
+https://stream10.xdevel.com/audio34s975552-2039/stream/icecast.audio
+
+#EXTINF:0, RTL Best
+http://shoutcast.rtl.it:3020/
+
+#EXTINF:0, RTL ItalianStyle
+http://shoutcast.rtl.it:3030/
+
+#EXTINF:0, RTL Groove
+http://shoutcast.rtl.it:3040/
+
+#EXTINF:0, RTL Lounge
+http://shoutcast.rtl.it:3070/
+
+#EXTINF:0, RTL Radiofreccia
+http://shoutcast.rtl.it:3060/
+
+#EXTINF:0, Radio Zeta L’Italiana
+http://shoutcast.rtl.it:3030/stream/1/
+
+#EXTINF:0, Radio LatteMiele
+https://sr15.inmystream.it/stream/lattemiele
+
+#EXTINF:0, Radio Ibiza
+http://wma02.fluidstream.net:5010/
+
+#EXTINF:0, Discoradio
+https://stream.rds.radio/audio/disco.stream_aac/playlist.m3u8
+
+#EXTINF:0, Radio Cuore
+https://stream10.xdevel.com/audio32s975552-1839/stream/icecast.audio
+
+#EXTINF:0, LifeGate Radio
+http://onair11.xdevel.com:8024
+
+#EXTINF:0, Radio Sportiva
+https://onair20.xdevel.com/proxy/radiosportiva?mp=/;
+
+#EXTINF:0, Radio Studio Più
+https://ice.studiopiu.net/puglia.aac
+
+#EXTINF:0, Radio Rama
+https://ssl1.mediastreaming.it:7024/
+
+#EXTINF:0, Radio Skylab Salento
+http://37.187.126.64:8000/skylab.mp3
+
+#EXTINF:0, Jetradio
+https://stream.jetradio.it/listen/jetradio/radio.mp3
