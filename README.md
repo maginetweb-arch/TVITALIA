@@ -1,6 +1,5 @@
 # IPTVIT 🇮🇹  
 [![Version](https://img.shields.io/badge/version-1.1.3-blue.svg)](https://github.com/maginetweb-arch/trwnet)  
-del 15/09/2025
 
 iptvit Lista dei canali tv in chiaro italiani
 
@@ -14,7 +13,7 @@ Questo progetto si basa sul lavoro fatto da https://github.com/Tundrak/IPTV-Ital
 Lista | https://raw.githubusercontent.com/maginetweb-arch/trwnet/main/iptvit.m3u
 
 
-📺 - Canali disponibili
+📺 - Canali disponibili al 15/09/2025
 
 [1] Rai 1   
 [2] Rai 2  
