@@ -234,17 +234,17 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunk
 #EXTINF:-1 tvg-id="RadioTvSerieA.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/radiotvseriea.png"tvg-chno="899"group-title="Radio":http-user-agent="",Radio TV Serie A 
 https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Radio Norba TV"tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/80/Radionorba_tv_logo_2021.png/330px-Radionorba_tv_logo_2021.png"tvg-chno="730"group-title="Radio":http-user-agent="",Radio Norba TV 
+#EXTINF:-1 tvg-id="Radio Norba TV"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/radionorba.png"tvg-chno="730"group-title="Radio":http-user-agent="",Radio Norba TV 
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="Super SIX"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/supersix.png"tvg-chno="801"group-title="Radio":http-user-agent="",Super SIX
+#EXTINF:-1 tvg-id="Super SIX"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/supersix.png"tvg-chno="801"group-title="Altro":http-user-agent="",Super SIX
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EURO TV"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/eurotv.png"tvg-chno="802"group-title="Radio":http-user-agent="",Euro TV 
+#EXTINF:-1 tvg-id="EURO TV"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/eurotv.png"tvg-chno="802"group-title="Altro":http-user-agent="",Euro TV 
 https://5f22d76e220e1.streamlock.net:443/eurotv/eurotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Iunior TV"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/iuniortv.png"tvg-chno="803"group-title="Radio":http-user-agent="",Iunior TV 
+#EXTINF:-1 tvg-id="Iunior TV"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/iuniortv.png"tvg-chno="803"group-title="Altro":http-user-agent="",Iunior TV 
 https://5f22d76e220e1.streamlock.net:443/iuniortv/iuniortv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Retemia"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/retemia.png"tvg-chno="804"group-title="Radio":http-user-agent="",Rete Mia
+#EXTINF:-1 tvg-id="Retemia"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/retemia.png"tvg-chno="804"group-title="Altro":http-user-agent="",Rete Mia
 https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
