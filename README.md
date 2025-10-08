@@ -32,7 +32,7 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/trwnet/main/iptvit.m3u
 [26] Cielo  
 [27] Twenty Seven  
 [28] TV2000  
-[29] LA7 Cinema * 
+[29] LA7 Cinema *   
 [30] La 5  
 [31] Real Time  
 [32] QVC  
