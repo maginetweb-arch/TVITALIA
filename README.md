@@ -61,6 +61,7 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/trwnet/main/iptvit.m3u
 [58] Rai Sport + HD  
 [59] Motor Trend  
 [60] Sportitalia  
+[61] IL 61  
 [62] Donna TV  
 [64] Supertennis  
 [65] ALMA TV  
