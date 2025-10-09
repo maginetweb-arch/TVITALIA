@@ -1,6 +1,6 @@
 IPTVITALIA
 # IPTVIT 🇮🇹  
-[![Version](https://img.shields.io/badge/version-25.10.8-blue.svg)](https://github.com/maginetweb-arch/trwnet)  
+[![Version](https://img.shields.io/badge/version-25.10.9-blue.svg)](https://github.com/maginetweb-arch/trwnet)  
 
 iptvit Lista dei canali tv in chiaro italiani
 
@@ -11,7 +11,7 @@ Questa repository contiene tutti i link ai principali canali TV italiani in file
 Lista | https://raw.githubusercontent.com/maginetweb-arch/trwnet/main/iptvit.m3u
 
 
-📺 - Canali disponibili al 8/10/2025
+📺 - Canali disponibili al 9/10/2025
 
 [1] Rai 1   
 [2] Rai 2  
