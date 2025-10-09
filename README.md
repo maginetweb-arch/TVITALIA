@@ -1,6 +1,6 @@
 IPTVITALIA
 # IPTVIT 🇮🇹  
-[![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)](https://github.com/maginetweb-arch/trwnet)  
+[![Version](https://img.shields.io/badge/version-25.10.8-blue.svg)](https://github.com/maginetweb-arch/trwnet)  
 
 iptvit Lista dei canali tv in chiaro italiani
 
