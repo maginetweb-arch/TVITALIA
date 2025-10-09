@@ -172,6 +172,9 @@ https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f88155
 #EXTINF:-1 tvg-id="Sportitalia.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/sportitalia.png"tvg-chno="60"group-title="Altro":http-user-agent="",Sportitalia
 https://origin.streamup.eu/sportitalia/sihd_480p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="il61.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/il61.png"tvg-chno="62"group-title="Altro":http-user-agent="",IL 61
+https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DonnaTV.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/donnatv.png"tvg-chno="62"group-title="Altro":http-user-agent="",Donna TV
 https://sportitaliaamd.akamaized.net/live/Donna_TV/hls/42EB42E58EA44362045EFEA804E3FCF0DB33C481/index.m3u8?hdnts=exp=1757785478~acl=/*~hmac=5c3bf123d326fc5212a942d76b1d048750a16e1a7a6951d85bfb6d628f2c0fe4
 
