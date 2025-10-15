@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:0, Rai Radio 1
-http://icestreaming.rai.it/1.mp3
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S18493106/rCMKqdMFKPBB/icecast
 
 #EXTINF:0, Rai Radio 2
-http://icestreaming.rai.it/2.mp3
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast
 
 #EXTINF:0, Rai Radio 3
-http://icestreaming.rai.it/3.mp3
+http://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S56630579/yEbkcBtIoSwd/icecast
 
 #EXTINF:0, RTL
 https://streamingv2.shoutcast.com/rtl-1025
@@ -64,28 +64,25 @@ https://classichitsradio.streamingmedia.it/play
 https://stream10.xdevel.com/audio34s975552-2039/stream/icecast.audio
 
 #EXTINF:0, RTL Best
-http://shoutcast.rtl.it:3020/
+https://streamingv2.shoutcast.com/rtl-1025-best
 
-#EXTINF:0, RTL ItalianStyle
-http://shoutcast.rtl.it:3030/
+#EXTINF:0, RTL Radio Zeta
+https://streamingv2.shoutcast.com/radio-zeta
 
-#EXTINF:0, RTL Groove
-http://shoutcast.rtl.it:3040/
+#EXTINF:0, RTL Bro&Sis
+https://streamingv2.shoutcast.com/rtl-1025-broandsis
 
-#EXTINF:0, RTL Lounge
-http://shoutcast.rtl.it:3070/
+#EXTINF:0, RTL Romeo & Juliet
+https://streamingv2.shoutcast.com/rtl-1025-romeoandjuliet
 
 #EXTINF:0, RTL Radiofreccia
-http://shoutcast.rtl.it:3060/
-
-#EXTINF:0, Radio Zeta L’Italiana
-http://shoutcast.rtl.it:3030/stream/1/
+https://streamingv2.shoutcast.com/radiofreccia
 
 #EXTINF:0, Radio LatteMiele
 https://sr15.inmystream.it/stream/lattemiele
 
 #EXTINF:0, Radio Ibiza
-http://wma02.fluidstream.net:5010/
+https://kisskiss.fluidstream.eu/ibiza.mp3
 
 #EXTINF:0, Discoradio
 https://stream.rds.radio/audio/disco.stream_aac/playlist.m3u8
@@ -94,7 +91,7 @@ https://stream.rds.radio/audio/disco.stream_aac/playlist.m3u8
 https://stream10.xdevel.com/audio32s975552-1839/stream/icecast.audio
 
 #EXTINF:0, LifeGate Radio
-http://onair11.xdevel.com:8024
+https://stream3.xdevel.com/audio0s975809-424/stream/icecast.audio
 
 #EXTINF:0, Radio Sportiva
 https://onair20.xdevel.com/proxy/radiosportiva?mp=/;
@@ -110,4 +107,3 @@ http://37.187.126.64:8000/skylab.mp3
 
 #EXTINF:0, Jetradio
 https://stream.jetradio.it/listen/jetradio/radio.mp3
-
