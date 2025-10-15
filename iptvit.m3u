@@ -68,7 +68,8 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 #EXTINF:-1 tvg-id="LA7 Cinema.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/LA7Cinema.png"tvg-chno="29"group-title="Altro":http-user-agent="HbbTV/1.6.1",LA7 Cinema
-https://d1aud3ze4v205y.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd?Expires=1759944002&Signature=fecZJSRoxfdePreyKuYXw5cmaTokyZVZoq--hvm~6MTApCJ1AV8W4NhtSezS0jdND2zOh1GKEZnsnIelRmY~zlnJiZpkjVndl2-Jlcvc0Nom815FR9cuUiW3Wn1GlAgbtfz076toBE3gCX-XIAdkmVkIZisWlkWfnfmhWWo5Ff-xO6-rhEiPQWJJF7T0sH5ioxPzfnt8clm1Skm24dU7mbHIefVOFjcVAwjy29q~NxVbPACmz46mLXQ~myrgaEkv-FL96~h10S7p8tRsLX739RwQ-8NiFXH3oAqx24uQam6tIjAWuSKxAR76FwA58a22wvIIkJe8BiwhkuAoP6cJug__&Key-Pair-Id=KB3R7VEQE3QYQ
+
+https://d1aud3ze4v205y.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd?Expires=1760547703&Signature=bzgDYsPLhRSsOIlX8PxE1Ohulu-OdruUgPwm0CldFzSPBLGCiAHtJMbiC1FjWSoYKUIlKfofIKKF1v3Is-bS~5Kdv9~gmHD-iSIZDjtjG6vXu5W0EFft5nzhhtndKBLKaBLNCaeD55lQ3fOxHckW8Ld42HIl6Vs20UlgyrjDKkwWicYSckO-QlwlThEp0HAUJVKXQc8BuGHAeXSeW1~hvhgj9cFAMplO3rZrE8fNGMN907d4N1GZUedhlZtE-d1MbJFE0VlnzNxoEYTcjugkqQ0X4Ed~vgfsQu21vT2W9VIR7oVnMKXCKQ6CiEtrTNub45QEPybqClhsRxwp1ItPgw__&Key-Pair-Id=KB3R7VEQE3QYQ
 
 #EXTINF:-1 tvg-id="LA5.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/la5.png"tvg-chno="30"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",La 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
