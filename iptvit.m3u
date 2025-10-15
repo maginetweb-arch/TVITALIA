@@ -68,7 +68,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 #EXTINF:-1 tvg-id="LA7 Cinema.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/LA7Cinema.png"tvg-chno="29"group-title="Altro":http-user-agent="HbbTV/1.6.1",LA7 Cinema
-https://d1aud3ze4v205y.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd?Expires=1760549091&Signature=lTjdnuCFLXi1nuMgEyG4yfWnzpCftcGxtSRYMWcaUdOMaNF-KutmKbCnPyQJxG-Zj2bQ2bWJDGIMx6ta6IgjJwiZ9TSiumCkJhtvLjTrkmT7~mP5I7eDHyahEi7VqvrH5Ysy4piqkoogxsGR6Fa2Ij4el6QQC7qRMtM62m0aCGff5dwZpTdfAaLsBVeuwGov1CsqYIwiCb1CboetHJ1sNhxskuRjKhvladFvSLes7Tc3MNqBK9l9YMcOE6kIQ8lYg8d6ePEjJp5fMXe6Pr7bpji2hjWzE2XkJAsQY5iAAE7sEARYvR9V0V55R2a0KEnNjoT-PGXrbfpV1pnauNll6A__&Key-Pair-Id=KB3R7VEQE3QYQ
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 
 #EXTINF:-1 tvg-id="LA5.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/la5.png"tvg-chno="30"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",La 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
