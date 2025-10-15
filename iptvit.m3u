@@ -68,7 +68,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 #EXTINF:-1 tvg-id="LA7 Cinema.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/LA7Cinema.png"tvg-chno="29"group-title="Altro":http-user-agent="HbbTV/1.6.1",LA7 Cinema
-https://d1aud3ze4v205y.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd?Expires=1760547703&Signature=bzgDYsPLhRSsOIlX8PxE1Ohulu-OdruUgPwm0CldFzSPBLGCiAHtJMbiC1FjWSoYKUIlKfofIKKF1v3Is-bS~5Kdv9~gmHD-iSIZDjtjG6vXu5W0EFft5nzhhtndKBLKaBLNCaeD55lQ3fOxHckW8Ld42HIl6Vs20UlgyrjDKkwWicYSckO-QlwlThEp0HAUJVKXQc8BuGHAeXSeW1~hvhgj9cFAMplO3rZrE8fNGMN907d4N1GZUedhlZtE-d1MbJFE0VlnzNxoEYTcjugkqQ0X4Ed~vgfsQu21vT2W9VIR7oVnMKXCKQ6CiEtrTNub45QEPybqClhsRxwp1ItPgw__&Key-Pair-Id=KB3R7VEQE3QYQ
+https://d1aud3ze4v205y.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd?Expires=1760549091&Signature=lTjdnuCFLXi1nuMgEyG4yfWnzpCftcGxtSRYMWcaUdOMaNF-KutmKbCnPyQJxG-Zj2bQ2bWJDGIMx6ta6IgjJwiZ9TSiumCkJhtvLjTrkmT7~mP5I7eDHyahEi7VqvrH5Ysy4piqkoogxsGR6Fa2Ij4el6QQC7qRMtM62m0aCGff5dwZpTdfAaLsBVeuwGov1CsqYIwiCb1CboetHJ1sNhxskuRjKhvladFvSLes7Tc3MNqBK9l9YMcOE6kIQ8lYg8d6ePEjJp5fMXe6Pr7bpji2hjWzE2XkJAsQY5iAAE7sEARYvR9V0V55R2a0KEnNjoT-PGXrbfpV1pnauNll6A__&Key-Pair-Id=KB3R7VEQE3QYQ
 
 #EXTINF:-1 tvg-id="LA5.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/la5.png"tvg-chno="30"group-title="Mediaset":http-user-agent="HbbTV/1.6.1",La 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -156,7 +156,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&force
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="Home&GardenTV.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/homegardentv.png"tvg-chno="56"group-title="Discovery":http-user-agent="",HGTV - Home&Garden
-https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_HGTV/master.mpd?manifest.mt=1ea4a725bafc4af7a8f5adb81e6b8e00&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjA1MjMwNDksIm5iZiI6MTc2MDUyMzA0OSwiZXhwIjoxNzYwNTIzNDA5LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiOTMuNDAuMTk2Ljk2In0.0WMQy3DJwli1hD0SeuO6rGlDw6aGTvQGu9ruQoP3Rao
+https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
 
 #EXTINF:-1 tvg-id="RaiScuola.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/raiscuola.png"tvg-chno="57"group-title="Rai":http-user-agent="HbbTV/1.6.1",Rai Scuola
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -167,7 +167,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&force
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="MotorTrendTV.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/motortrend.png"tvg-chno="59"group-title="Discovery":http-user-agent="",Motor Trend
-https://streaming.aurora.enhanced.live/live/mtc/v1/dash/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_MOTORTREND/master.mpd
+https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 
 #EXTINF:-1 tvg-id="Sportitalia.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/sportitalia.png"tvg-chno="60"group-title="Altro":http-user-agent="",Sportitalia
 https://origin.streamup.eu/sportitalia/sihd_480p/playlist.m3u8
