@@ -86,7 +86,7 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/trwnet/main/iptvit.m3u
 [802] Euro TV  
 [803] Iunior TV  
 [804] Rete Mia  
-[805] 7Gold ER
+[805] 7Gold ER  
 [899] Radio TV Serie A   
 
 Oltre ai principali canali tv nazionali verranno aggiunti alcuni canali degni di nota che hanno una programmazione di interesse (a nostra discrezione).
