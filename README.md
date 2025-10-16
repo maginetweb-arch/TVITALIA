@@ -1,6 +1,6 @@
 IPTVITALIA
 # IPTVIT 🇮🇹  
-[![Version](https://img.shields.io/badge/version-25.10.15-blue.svg)](https://github.com/maginetweb-arch/trwnet)  
+[![Version](https://img.shields.io/badge/version-25.10.16-blue.svg)](https://github.com/maginetweb-arch/trwnet)  
 
 iptvit Lista dei canali tv in chiaro italiani
 
@@ -11,7 +11,7 @@ Questa repository contiene tutti i link ai principali canali TV italiani in file
 Lista | https://raw.githubusercontent.com/maginetweb-arch/trwnet/main/iptvit.m3u
 
 
-📺 - Canali disponibili al 15/10/2025
+📺 - Canali disponibili al 16/10/2025
 
 [1] Rai 1   
 [2] Rai 2  
@@ -31,7 +31,7 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/trwnet/main/iptvit.m3u
 [26] Cielo  
 [27] Twenty Seven  
 [28] TV2000  
-[29] LA7 Cinema *   
+[29] LA7 Cinema * [beta]  
 [30] La 5  
 [31] Real Time  
 [32] QVC  
@@ -86,6 +86,7 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/trwnet/main/iptvit.m3u
 [802] Euro TV  
 [803] Iunior TV  
 [804] Rete Mia  
+[805] 7Gold ER
 [899] Radio TV Serie A   
 
 Oltre ai principali canali tv nazionali verranno aggiunti alcuni canali degni di nota che hanno una programmazione di interesse (a nostra discrezione).
