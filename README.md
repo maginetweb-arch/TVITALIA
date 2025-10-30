@@ -13,9 +13,9 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/trwnet/main/iptvit.m3u
 
 📺 - Canali disponibili 
 
-[1] Rai 1 [beta]   
-[2] Rai 2 [beta]  
-[3] Rai 3 [beta]  
+[1] Rai 1    
+[2] Rai 2   
+[3] Rai 3   
 [4] Rete 4  
 [5] Canale 5  
 [6] Italia 1  
@@ -23,11 +23,11 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/trwnet/main/iptvit.m3u
 [8] TV8  
 [9] NOVE  
 [20] 20  
-[21] Rai 4 [beta]  
+[21] Rai 4   
 [22] Iris  
-[23] Rai 5 [beta]   
-[24] Rai Movie [beta]  
-[25] Rai Premium [beta]  
+[23] Rai 5    
+[24] Rai Movie   
+[25] Rai Premium   
 [26] Cielo  
 [27] Twenty Seven  
 [28] TV2000  
@@ -44,21 +44,21 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/trwnet/main/iptvit.m3u
 [39] Top Crime  
 [40] Boing  
 [41] K2  
-[42] Rai Gulp [beta]   
-[43] Rai Yoyo [beta]    
+[42] Rai Gulp    
+[43] Rai Yoyo     
 [44] Frisbee  
 [46] Cartoonito  
 [47] Super!  
-[48] Rai News 24 [beta]  
+[48] Rai News 24   
 [49] Italia 2  
 [50] Sky TG24  
 [51] TGCOM 24  
 [52] DMAX  
-[54] Rai Storia [beta]  
+[54] Rai Storia   
 [55] Mediaset Extra  
 [56] HGTV - Home&Garden  
-[57] Rai Scuola [beta]  
-[58] Rai Sport + HD [beta]  
+[57] Rai Scuola   
+[58] Rai Sport + HD   
 [59] Motor Trend  
 [60] Sportitalia  
 [61] IL 61  
