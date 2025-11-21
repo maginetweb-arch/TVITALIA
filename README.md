@@ -1,13 +1,16 @@
 IPTVITALIA
 # IPTVIT 🇮🇹  
-[![Version](https://img.shields.io/badge/version-25.11.19-blue.svg)](https://github.com/maginetweb-arch/trwnet)  
+[![Version](https://img.shields.io/badge/version-25.11.21-blue.svg)](https://github.com/maginetweb-arch/trwnet)  
 
 iptvit Lista dei canali tv in chiaro italiani
 
 IPTV-Italia
 Questa repository contiene tutti i link ai principali canali TV italiani in file m3u da aprire con un qualsiasi programma che supporti file playlist. I link sono tutti estrapolati dagli stream ufficiali, e per questo dovrebbero essere visibili legalmente soltanto all'interno dell'Italia.  I link non funzionanti saranno aggiornati appena possibile, nuovi canali potrebbero essere aggiunti solo se giudicati interessanti comunque l idea è quella di tenere la lista pulita ed evitare canali inutili (a nostra discrezione)
 
+![New](https://img.shields.io/badge/status-NEW-brightgreen.svg)  
+
 Lista | https://maginetweb-arch.github.io/tileoplayer/tvita.m3u
+
 
 Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/iptvit.m3u
 
