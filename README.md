@@ -1,6 +1,6 @@
 IPTVITALIA
 # IPTVIT 🇮🇹  
-[![Version](https://img.shields.io/badge/version-25.11.21-blue.svg)](https://github.com/maginetweb-arch/trwnet)  
+[![Version](https://img.shields.io/badge/version-25.12.15-blue.svg)](https://github.com/maginetweb-arch/trwnet)  
 
 iptvit Lista dei canali tv in chiaro italiani
 
@@ -24,7 +24,7 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [5] Canale 5  
 [6] Italia 1  
 [7] LA7  
-[8] TV8  
+[8] TV8 off  
 [9] NOVE  
 [20] 20  
 [21] Rai 4   
@@ -32,7 +32,7 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [23] Rai 5    
 [24] Rai Movie   
 [25] Rai Premium   
-[26] Cielo  
+[26] Cielo off  
 [27] Twenty Seven  
 [28] TV2000  
 [29] LA7 Cinema * [beta]  
