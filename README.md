@@ -24,7 +24,7 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [5] Canale 5  
 [6] Italia 1  
 [7] LA7  
-[8] TV8 off  
+[8] TV8   
 [9] NOVE  
 [20] 20  
 [21] Rai 4   
@@ -32,7 +32,7 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [23] Rai 5    
 [24] Rai Movie   
 [25] Rai Premium   
-[26] Cielo off  
+[26] Cielo   
 [27] Twenty Seven  
 [28] TV2000  
 [29] LA7 Cinema * [beta]  
