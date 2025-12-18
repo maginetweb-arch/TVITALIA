@@ -25,16 +25,16 @@ https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radi
 https://kisskiss.fluidstream.eu/KissKiss.mp3
 
 #EXTINF:0, R101 Diretta
-http://icecast.unitedradio.it/r101
+https://icecast.unitedradio.it/r101
 
 #EXTINF:0, Virgin Radio
-http://icecast.unitedradio.it/Virgin.mp3
+https://icecast.unitedradio.it/Virgin.mp3
 
 #EXTINF:0, Radio 105
-http://icecast.105.net/105.mp3
+https://icecast.105.net/105.mp3
 
 #EXTINF:0, RMC Radio Monte Carlo
-http://edge.radiomontecarlo.net/RMC.mp3
+https://edge.radiomontecarlo.net/RMC.mp3
 
 #EXTINF:0, Radio m2o
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
@@ -49,7 +49,7 @@ https://klasse1.fluidstream.eu/bella
 https://icy.unitedradio.it/Subasio.mp3
 
 #EXTINF:0, RadioNorba
-http://onair11.xdevel.com:9990/
+https://ad1.xdevel.com/radionorbamusic
 
 #EXTINF:0, Radionorba Music 
 https://stream6.xdevel.com/audio1s975885-1083/stream/icecast.audio
