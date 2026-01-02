@@ -1,6 +1,6 @@
 IPTVITALIA
 # IPTVIT 🇮🇹  
-[![Version](https://img.shields.io/badge/version-25.12.15-blue.svg)](https://github.com/maginetweb-arch/trwnet)  
+[![Version](https://img.shields.io/badge/version-26.01.02-blue.svg)](https://github.com/maginetweb-arch/trwnet)  
 
 iptvit Lista dei canali tv in chiaro italiani
 
@@ -90,7 +90,12 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [802] Euro TV  
 [803] Iunior TV  
 [804] Rete Mia  
-[805] 7Gold ER  
+[805] 7Gold er  
+[850] Pluto  
+[851] Pluto  
+[852] Pluto  
+[853] Pluto  
+[854] Pluto  
 [899] Radio TV Serie A   
 
 Oltre ai principali canali tv nazionali verranno aggiunti alcuni canali degni di nota che hanno una programmazione di interesse (a nostra discrezione).
