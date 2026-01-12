@@ -1,6 +1,6 @@
 IPTVITALIA
 # IPTVIT 🇮🇹  
-[![Version](https://img.shields.io/badge/version-26.01.02-blue.svg)](https://github.com/maginetweb-arch/trwnet)  
+[![Version](https://img.shields.io/badge/version-26.01.12-blue.svg)](https://github.com/maginetweb-arch/trwnet)  
 
 iptvit Lista dei canali tv in chiaro italiani
 
@@ -63,7 +63,7 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [56] HGTV - Home&Garden  
 [57] Rai Scuola   
 [58] Rai Sport + HD   
-[59] Motor Trend  
+[59] Discovery Turbo  
 [60] Sportitalia  
 [61] IL 61  
 [62] Donna TV  
@@ -77,6 +77,7 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [158] RADIO KISS KISS TV  
 [202] Rai Radio 2 Visual  
 [233] RTL 102.5 News  
+[233] RTL 102.5 News  
 [257] VIRGIN RADIO  
 [258] RADIOFRECCIA  
 [265] RDS Social TV  
@@ -85,7 +86,7 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [715] M2O TV  
 [730] Radio Norba TV  
 [772] Radio Montecarlo TV  
-[550] RTV San Marino  
+[510] Automoto TV  
 [801] Super SIX  
 [802] Euro TV  
 [803] Iunior TV  
