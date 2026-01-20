@@ -77,7 +77,7 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [158] RADIO KISS KISS TV  
 [202] Rai Radio 2 Visual  
 [233] RTL 102.5 News  
-[233] RTL 102.5 News  
+[236] Man-Ga  
 [257] VIRGIN RADIO  
 [258] RADIOFRECCIA  
 [265] RDS Social TV  
