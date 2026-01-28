@@ -9,7 +9,7 @@ https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/radio3.jpg", Rai Radio 3
 http://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S56630579/yEbkcBtIoSwd/icecast
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/rtl.jpg", RTL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/rtl1025.jpg", RTL
 https://streamingv2.shoutcast.com/rtl-1025
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/rds.jpg", RDS 100% Grandi Successi
@@ -107,3 +107,4 @@ https://nr9.newradio.it/stream/content/;
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/jetradio.jpg", Jetradio
 https://stream.jetradio.it/listen/jetradio/radio.mp3
+
