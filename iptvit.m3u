@@ -178,13 +178,13 @@ https://edge-001.streamup.eu/sportitalia/sihd_abr2/sportitalia/sihd_720p/playlis
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DonnaTV.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/donnatv.png"tvg-chno="62"group-title="Altro":http-user-agent="",Donna TV
-https://sportitaliaamd.akamaized.net/live/Donna_TV/hls/42EB42E58EA44362045EFEA804E3FCF0DB33C481/index.m3u8?hdnts=exp=1769797188~acl=/*~hmac=62617857df029592209e5296e4e9fcc84e3742447081fa7b82c24e26db4adcf8
+https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SuperTennis.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/supertennis.png"tvg-chno="64"group-title="Altro":http-user-agent="",Supertennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
 #EXTINF:-1 tvg-id="AlmaTv.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/almatv.png"tvg-chno="65"group-title="Altro":http-user-agent="",ALMA TV
-https://sportitaliaamd.akamaized.net/live/Alma_TV/hls/8B620B531085AB9D79DAB5B98F2ADEF3A7F5BE2B/index.m3u8?hdnts=exp=1769797299~acl=/*~hmac=1f4395ed04895ea1d5987d580210edef540575b1a3c6466d8833dd3ec7ebcae0
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Radio105TV.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/radio105tv.png"tvg-chno="66"group-title="Radio":http-user-agent="HbbTV/1.6.1",Radio 105 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -252,7 +252,7 @@ https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlis
 https://5f22d76e220e1.streamlock.net:443/eurotv/eurotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Iunior TV"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/iuniortv.png"tvg-chno="803"group-title="Altro":http-user-agent="",Iunior TV 
-https://5f22d76e220e1.streamlock.net:443/iuniortv/iuniortv/playlist.m3u8
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Retemia"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/retemia.png"tvg-chno="804"group-title="Altro":http-user-agent="",Rete Mia
 https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
