@@ -51,7 +51,7 @@ https://icy.unitedradio.it/Subasio.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/norba.jpg", Radio Norba
 https://stream3.xdevel.com/audio0s975885-1008/stream/icecast.audio
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/norba.jpg", Radionorba Music
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/norbam.jpg", Radionorba Music
 https://stream6.xdevel.com/audio1s975885-1083/stream/icecast.audio
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/love.jpg", Love FM
@@ -107,5 +107,6 @@ https://nr9.newradio.it/stream/content/;
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/jetradio.jpg", Jetradio
 https://stream.jetradio.it/listen/jetradio/radio.mp3
+
 
 
