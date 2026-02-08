@@ -1,5 +1,3 @@
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/radio1.jpg", Rai Radio 1
 https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S18493106/rCMKqdMFKPBB/icecast
 
@@ -48,35 +46,23 @@ https://klasse1.fluidstream.eu/bella
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/subasio.jpg", Radio Subasio
 https://icy.unitedradio.it/Subasio.mp3
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/norba.jpg", Radio Norba
-https://stream3.xdevel.com/audio0s975885-1008/stream/icecast.audio
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/norbam.jpg", Radionorba Music
-https://stream6.xdevel.com/audio1s975885-1083/stream/icecast.audio
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/love.jpg", Love FM
-https://ice07.fluidstream.net/lovefm.mp3
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/chr.jpg", Classic Hits
 https://classichitsradio.streamingmedia.it/play
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/reporter.jpg", Radio Reporter
 https://stream10.xdevel.com/audio34s975552-2039/stream/icecast.audio
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/birikina.jpg", Birikina
+https://ice02.fluidstream.net/birikina
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/rtlbest.jpg", RTL Best
 https://streamingv2.shoutcast.com/rtl-1025-best
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/freccia.jpg", RTL Radiofreccia
+https://streamcdnr19-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_audio.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/zeta.jpg", RTL Radio Zeta
 https://streamingv2.shoutcast.com/radio-zeta
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/A.jpg", RTL Bro&Sis
-https://streamingv2.shoutcast.com/rtl-1025-broandsis
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/A.jpg", RTL Romeo & Juliet
-https://streamingv2.shoutcast.com/rtl-1025-romeoandjuliet
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/freccia.jpg", RTL Radiofreccia
-https://streamingv2.shoutcast.com/radiofreccia
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/lattemiele.jpg", Radio LatteMiele
 https://sr15.inmystream.it/stream/lattemiele
@@ -107,6 +93,7 @@ https://nr9.newradio.it/stream/content/;
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/jetradio.jpg", Jetradio
 https://stream.jetradio.it/listen/jetradio/radio.mp3
+
 
 
 
