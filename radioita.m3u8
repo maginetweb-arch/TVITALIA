@@ -92,7 +92,8 @@ https://ssl1.mediastreaming.it:7024/;
 https://nr9.newradio.it/stream/content/;
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/jetradio.jpg", Jetradio
-https://stream.jetradio.it/listen/jetradio/radio.mp3
+https://stream.jetradio.it/radio.mp3
+
 
 
 
