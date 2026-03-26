@@ -52,6 +52,9 @@ https://stream3.xdevel.com/audio0s975885-1008/stream/icecast.audio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/norbam.jpg", Radionorba Music
 https://stream6.xdevel.com/audio1s975885-1083/stream/icecast.audio
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/love.jpg", Love FM
+https://ice07.fluidstream.net/lovefm.mp3
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/chr.jpg", Classic Hits
 https://classichitsradio.streamingmedia.it/play
 
@@ -70,8 +73,8 @@ https://streamcdnr19-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0t
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/zeta.jpg", RTL Radio Zeta
 https://streamingv2.shoutcast.com/radio-zeta
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/lattemiele.jpg", Radio LatteMiele
-https://sr15.inmystream.it/stream/lattemiele
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/studiopiu.jpg", Radio Studio Più
+https://ice.studiopiu.net/puglia.aac
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/ibiza.jpg", Radio Ibiza
 https://kisskiss.fluidstream.eu/ibiza.mp3
@@ -88,8 +91,8 @@ https://stream3.xdevel.com/audio0s975809-424/stream/icecast.audio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/sportiva.jpg", Radio Sportiva
 https://onair20.xdevel.com/proxy/radiosportiva?mp=/;
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/studiopiu.jpg", Radio Studio Più
-https://ice.studiopiu.net/puglia.aac
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/lattemiele.jpg", Radio LatteMiele
+https://sr15.inmystream.it/stream/lattemiele
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/rama.jpg", Radio Rama
 https://ssl1.mediastreaming.it:7024/;
