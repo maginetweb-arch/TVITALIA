@@ -23,7 +23,7 @@ https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radi
 https://kisskiss.fluidstream.eu/KissKiss.mp3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/105.jpg", Radio 105
-https://icecast.105.net/105.mp3
+https://icy.unitedradio.it/Radio105.mp3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/r101.jpg", R101 Diretta
 https://icecast.unitedradio.it/r101
@@ -45,6 +45,11 @@ https://klasse1.fluidstream.eu/bella
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/subasio.jpg", Radio Subasio
 https://icy.unitedradio.it/Subasio.mp3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/norba.jpg", Radio Norba
+https://stream3.xdevel.com/audio0s975885-1008/stream/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/norbam.jpg", Radionorba Music
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/chr.jpg", Classic Hits
 https://classichitsradio.streamingmedia.it/play
@@ -93,8 +98,6 @@ https://nr9.newradio.it/stream/content/;
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/jetradio.jpg", Jetradio
 https://stream.jetradio.it/radio.mp3
-
-
 
 
 
