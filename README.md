@@ -10,6 +10,9 @@ Questa repository contiene tutti i link ai principali canali TV italiani in file
 Short Link per Smart Tv
 Lista | https://maginetweb-arch.github.io/tileoplayer/tvita.m3u
 
+Short Link per Smartphone Tablet Android e Apple
+Lista | https://maginetweb-arch.github.io/tileoplayer/atvita.m3u
+
 Raw List
 Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/iptvit.m3u
 
