@@ -53,7 +53,7 @@ https://stream3.xdevel.com/audio0s975885-1008/stream/icecast.audio
 https://stream6.xdevel.com/audio1s975885-1083/stream/icecast.audio
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/love.jpg", Love FM
-https://ice07.fluidstream.net/lovefm.mp3
+https://rh.fluidstream.eu/lovefm.mp3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/chr.jpg", Classic Hits
 https://classichitsradio.streamingmedia.it/play
@@ -89,7 +89,7 @@ https://stream10.xdevel.com/audio32s975552-1839/stream/icecast.audio
 https://stream3.xdevel.com/audio0s975809-424/stream/icecast.audio
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/sportiva.jpg", Radio Sportiva
-https://onair20.xdevel.com/proxy/radiosportiva?mp=/;
+https://sportiva.inmystream.it/stream/sportiva
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/lattemiele.jpg", Radio LatteMiele
 https://sr15.inmystream.it/stream/lattemiele
