@@ -40,7 +40,6 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [29] LA7 Cinema * [beta]  
 [30] La 5  
 [31] Real Time  
-[32] QVC  
 [33] Food Network  
 [34] Cine34  
 [35] Focus  
