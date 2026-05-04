@@ -1,6 +1,6 @@
 IPTVITALIA
 # IPTVIT 🇮🇹  
-[![Version](https://img.shields.io/badge/version-26.3.1-blue.svg)](https://github.com/maginetweb-arch/TVITALIA)  
+[![Version](https://img.shields.io/badge/version-26.5.4-blue.svg)](https://github.com/maginetweb-arch/TVITALIA)  
 
 iptvit Lista dei canali tv in chiaro italiani
 
@@ -37,7 +37,7 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [26] Cielo   
 [27] Twenty Seven  
 [28] TV2000  
-[29] LA7 Cinema * [beta]  
+[29] LA7 Cinema 
 [30] La 5  
 [31] Real Time  
 [33] Food Network  
