@@ -27,7 +27,7 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [6] Italia 1  
 [7] LA7  
 [8] TV8   
-[9] NOVE  Parziale  
+[9] NOVE  OFF   
 [20] 20  
 [21] Rai 4   
 [22] Iris  
