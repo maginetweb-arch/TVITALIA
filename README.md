@@ -1,6 +1,6 @@
 IPTVITALIA
 # IPTVIT 🇮🇹  
-[![Version](https://img.shields.io/badge/version-26.5.4-blue.svg)](https://github.com/maginetweb-arch/TVITALIA)  
+[![Version](https://img.shields.io/badge/version-26.5.10-blue.svg)](https://github.com/maginetweb-arch/TVITALIA)  
 
 iptvit Lista dei canali tv in chiaro italiani
 
@@ -27,7 +27,7 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [6] Italia 1  
 [7] LA7  
 [8] TV8   
-[9] NOVE  OFF   
+[9] NOVE  :yellow_circle:     
 [20] 20  
 [21] Rai 4   
 [22] Iris  
@@ -39,32 +39,32 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [28] TV2000  
 [29] LA7 Cinema  
 [30] La 5  
-[31] Real Time  
-[33] Food Network  
+[31] Real Time  :yellow_circle:    
+[33] Food Network  :red_circle:  
 [34] Cine34  
 [35] Focus  
 [36] RTL 102.5  
-[37] Discovery Channel  
-[38] Giallo  
+[37] Discovery Channel  :yellow_circle:    
+[38] Giallo  :red_circle:  
 [39] Top Crime  
 [40] Boing  
-[41] K2  
+[41] K2  :red_circle:
 [42] Rai Gulp    
 [43] Rai Yoyo     
-[44] Frisbee  
+[44] Frisbee  :red_circle:  
 [46] Cartoonito  
 [47] Super!  
 [48] Rai News 24   
 [49] Italia 2  
 [50] Sky TG24  
 [51] TGCOM 24  
-[52] DMAX  
+[52] DMAX  :yellow_circle:  
 [54] Rai Storia   
 [55] Mediaset Extra  
-[56] HGTV - Home&Garden  
+[56] HGTV - Home&Garden  :red_circle:  
 [57] Rai Scuola   
 [58] Rai Sport + HD   
-[59] Discovery Turbo  
+[59] Discovery Turbo  :red_circle:  
 [60] Sportitalia  
 [61] IL 61  
 [62] Donna TV  
