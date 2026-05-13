@@ -1,6 +1,6 @@
 IPTVITALIA
 # IPTVIT 🇮🇹  
-[![Version](https://img.shields.io/badge/version-26.5.10-blue.svg)](https://github.com/maginetweb-arch/TVITALIA)  
+[![Version](https://img.shields.io/badge/version-26.5.13-blue.svg)](https://github.com/maginetweb-arch/TVITALIA)  
 
 iptvit Lista dei canali tv in chiaro italiani
 
@@ -40,15 +40,15 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [29] LA7 Cinema  
 [30] La 5  
 [31] Real Time  :yellow_circle:    
-[33] Food Network  :red_circle:  
+[33] Food Network  :yellow_circle:  
 [34] Cine34  
 [35] Focus  
 [36] RTL 102.5  
 [37] Discovery Channel  :yellow_circle:    
-[38] Giallo  :red_circle:  
+[38] Giallo  :yellow_circle:  
 [39] Top Crime  
 [40] Boing  
-[41] K2  :red_circle:
+[41] K2  :red_circle:  
 [42] Rai Gulp    
 [43] Rai Yoyo     
 [44] Frisbee  :red_circle:  
