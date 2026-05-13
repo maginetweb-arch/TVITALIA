@@ -100,7 +100,7 @@ https://ssl1.mediastreaming.it:7024/;
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/hybrid.jpg", HYBRID
 https://nr9.newradio.it/stream/content/;
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/tileoplay.jpg", GIULIA Italia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/tileoplay.png", GIULIA Italia
 https://rh.fluidstream.eu/giulia.mp3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/RDL/jetradio.jpg", Jetradio
