@@ -48,10 +48,10 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [38] Giallo  :yellow_circle:  
 [39] Top Crime  
 [40] Boing  
-[41] K2  :red_circle:  
+[41] K2  :yellow_circle:  
 [42] Rai Gulp    
 [43] Rai Yoyo     
-[44] Frisbee  :red_circle:  
+[44] Frisbee  :yellow_circle:  
 [46] Cartoonito  
 [47] Super!  
 [48] Rai News 24   
@@ -61,7 +61,7 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [52] DMAX  :yellow_circle:  
 [54] Rai Storia   
 [55] Mediaset Extra  
-[56] HGTV - Home&Garden  :red_circle:  
+[56] HGTV - Home&Garden  :yellow_circle:  
 [57] Rai Scuola   
 [58] Rai Sport + HD   
 [59] Discovery Turbo  :red_circle:  
@@ -94,6 +94,9 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [804] Rete Mia  
 [805] 7Gold er  
 [899] Radio TV Serie A   
+
+:yellow_circle: Funziona con player iptv Avanzato
+:red_circle: Canale al momento non disponibile
 
 Oltre ai principali canali tv nazionali verranno aggiunti alcuni canali degni di nota che hanno una programmazione di interesse (a nostra discrezione).
 
