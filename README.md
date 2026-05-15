@@ -1,6 +1,6 @@
 IPTVITALIA
 # IPTVIT 🇮🇹  
-[![Version](https://img.shields.io/badge/version-26.5.13-blue.svg)](https://github.com/maginetweb-arch/TVITALIA)  
+[![Version](https://img.shields.io/badge/version-26.5.15-blue.svg)](https://github.com/maginetweb-arch/TVITALIA)  
 
 iptvit Lista dei canali tv in chiaro italiani
 
@@ -48,10 +48,10 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [38] Giallo  :yellow_circle:  
 [39] Top Crime  
 [40] Boing  
-[41] K2  :orange_circle:  
+[41] K2  :yellow_circle:  
 [42] Rai Gulp    
 [43] Rai Yoyo     
-[44] Frisbee  :orange_circle:  
+[44] Frisbee  :yellow_circle:  
 [46] Cartoonito  
 [47] Super!  
 [48] Rai News 24   
@@ -61,10 +61,10 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [52] DMAX  :yellow_circle:  
 [54] Rai Storia   
 [55] Mediaset Extra  
-[56] HGTV - Home&Garden  :orange_circle:  
+[56] HGTV - Home&Garden  :yellow_circle:  
 [57] Rai Scuola   
 [58] Rai Sport + HD   
-[59] Discovery Turbo  :red_circle:  
+[59] Discovery Turbo  :yellow_circle:  
 [60] Sportitalia  
 [61] IL 61  
 [62] Donna TV  
@@ -96,9 +96,7 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [899] Radio TV Serie A   
 
 
-:yellow_circle: Funziona con player 
-:orange_circle: Funziona con player iptv Avanzato
-:red_circle: Canale al momento non disponibile
+:yellow_circle: Funziona con Player Drm avanzati (non compatibile webplayer e vlc)
 
 Oltre ai principali canali tv nazionali verranno aggiunti alcuni canali degni di nota che hanno una programmazione di interesse (a nostra discrezione).
 
