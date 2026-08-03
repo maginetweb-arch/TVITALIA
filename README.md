@@ -5,7 +5,7 @@ IPTVITALIA
 iptvit Lista dei canali tv in chiaro italiani
 
 IPTV-Italia
-Questa repository contiene tutti i link ai principali canali TV italiani in file m3u da aprire con un qualsiasi programma che supporti file playlist. I link sono tutti estrapolati dagli stream ufficiali, e per questo dovrebbero essere visibili legalmente soltanto all'interno dell'Italia.  I link non funzionanti saranno aggiornati appena possibile, nuovi canali potrebbero essere aggiunti solo se giudicati interessanti comunque l idea è quella di tenere la lista pulita ed evitare canali inutili (a nostra discrezione)
+Questa repository contiene i link ai principali canali TV italiani in file m3u playlist. I link sono quelli utilizzati pubblicamente dagli stream ufficiali, e sono visibili legalmente soltanto in Italia.  I link non funzionanti saranno aggiornati appena possibile, nuovi canali potrebbero essere aggiunti solo se giudicati interessanti comunque l idea è quella di tenere la lista pulita ed evitare canali inutili (a nostra discrezione)
 
 Iptv Player Smart Tv
 Lista | https://maginetweb-arch.github.io/tileoplayer/tvita.m3u
@@ -98,6 +98,8 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 
 
 :yellow_circle: Funziona con Player Drm avanzati (non compatibile webplayer e vlc)
+
+Si prega di non richiedere inserimento di canali e soprattutto non inviare (nelle issue) link a piattaforme illegali o che condividono contenuti protetti o disponibili a pagamento, questa è una reposity nata per rendere disponibile in maniera semplice le principali emittenti tv italiane
 
 Oltre ai principali canali tv nazionali verranno aggiunti alcuni canali degni di nota che hanno una programmazione di interesse (a nostra discrezione).
 
