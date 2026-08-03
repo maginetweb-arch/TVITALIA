@@ -276,3 +276,30 @@ https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="Pluto TV"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/plutotv.png"tvg-chno="807"group-title="Altro":http-user-agent="",Pluto Film TV
 https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/plutotv.png"tvg-chno="807"group-title="Altro":http-user-agent="",Pluto Film Azione
+https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/plutotv.png"tvg-chno="807"group-title="Altro":http-user-agent="",Pluto Film Comedy
+https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/plutotv.png"tvg-chno="809"group-title="Altro":http-user-agent="",Pluto Cinema Totò
+https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/plutotv.png"tvg-chno="807"group-title="Altro":http-user-agent="",Pluto Film Western
+https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/plutotv.png"tvg-chno="807"group-title="Altro":http-user-agent="",Pluto Film Natale 365
+https://jmp2.uk/plu-612e05b885183d0007958101.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/plutotv.png"tvg-chno="807"group-title="Altro":http-user-agent="",Pluto Banco dei Pugni
+https://jmp2.uk/plu-60e4507a06171800072339a3.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/plutotv.png"tvg-chno="808"group-title="Altro":http-user-agent="",Pluto Serie Sci-Fi
+https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/plutotv.png"tvg-chno="810"group-title="Altro":http-user-agent="",Pluto Relic Hunter
+https://jmp2.uk/plu-67d9836ba1609bdb523f0c9d.m3u8
+
+#EXTINF:-1 tvg-id="Pluto TV"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/plutotv.png"tvg-chno="811"group-title="Altro":http-user-agent="",Pluto Renegade
+https://jmp2.uk/plu-634926e4b51d2d00077819a2.m3u8
