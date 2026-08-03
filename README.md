@@ -1,6 +1,6 @@
 IPTVITALIA
 # IPTVIT 🇮🇹  
-[![Version](https://img.shields.io/badge/version-26.5.15-blue.svg)](https://github.com/maginetweb-arch/TVITALIA)  
+[![Version](https://img.shields.io/badge/version-26.8.1-blue.svg)](https://github.com/maginetweb-arch/TVITALIA)  
 
 iptvit Lista dei canali tv in chiaro italiani
 
@@ -94,6 +94,7 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 [804] Rete Mia  
 [805] 7Gold er  
 [899] Radio TV Serie A   
+[8XX] Rakuten Pluto selection  
 
 
 :yellow_circle: Funziona con Player Drm avanzati (non compatibile webplayer e vlc)
