@@ -99,7 +99,7 @@ Lista | https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/ma
 
 :yellow_circle: Funziona con Player Drm avanzati (non compatibile webplayer e vlc)
 
-Si prega di non richiedere inserimento di canali e soprattutto non inviare (nelle issue) link a piattaforme illegali o che condividono contenuti protetti o disponibili a pagamento, questa è una reposity nata per rendere disponibile in maniera semplice le principali emittenti tv italiane
+Si prega di non richiedere inserimento di canali e soprattutto non inviare (nelle issue) link a piattaforme illegali o che condividono contenuti protetti o disponibili a pagamento, questa è una repository nata per rendere disponibile in maniera semplice le principali emittenti tv italiane
 
 Oltre ai principali canali tv nazionali verranno aggiunti alcuni canali degni di nota che hanno una programmazione di interesse (a nostra discrezione).
 
